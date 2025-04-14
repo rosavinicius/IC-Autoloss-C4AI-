@@ -37,7 +37,7 @@ As tabelas abaixo registram o desempenho obtido. É notório que, diferentemente
 
 
 as melhores 5 funções encontradas para cada modelo são as seguintes: 
-### 📘 Funções de Loss – MLP
+### Funções de Loss – MLP
 
 1. ` (ŷ * (1 / ŷ + y |))²`
 2. `(log(ŷ))² * |ŷ * y|`
@@ -47,7 +47,7 @@ as melhores 5 funções encontradas para cada modelo são as seguintes:
 
 ---
 
-### 📗 Funções de Loss – RNN
+### Funções de Loss – RNN
 
 1. `(ŷ² * (tanh(ŷ) + ŷ * y))²`
 2. `(tanh(ŷ * y) + log(1 / ŷ))²`
