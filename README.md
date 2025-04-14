@@ -58,6 +58,6 @@ as melhores 5 funções encontradas para cada modelo são as seguintes:
 Em todos os casos, as restrições de domínio das funções são superadas por meio da introdução de constantes pequenas.
 
 
-### reprodutibilidade 
+### Reprodutibilidade 
 Todos os experimentos são passíveis de reprodução. Recomenda-se a criação de um ambiente conforme as diretrizes descritas no arquivo de requisitos (requirements.txt).
 
