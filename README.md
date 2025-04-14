@@ -45,7 +45,7 @@ as melhores 5 funções encontradas para cada modelo são as seguintes:
 4. `(log(ŷ * y) + exp(tanh(ŷ)))²`
 5. `|log(ŷ + y)|`
 
----
+
 
 ### Funções de Loss – RNN
 
